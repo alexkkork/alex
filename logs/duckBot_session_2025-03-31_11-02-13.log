@@ -1,0 +1,7 @@
+2025-03-31 11:02:14,080 - ERROR - [MAIN] Failed to load cog duckAI: Extension 'cogs.duckAI' raised an error: ValueError: invalid literal for int() with base 10: ''
+2025-03-31 11:02:14,912 - ERROR - [MAIN] Failed to load cog utility: Extension 'cogs.utility' raised an error: ValueError: invalid literal for int() with base 10: ''
+2025-03-31 11:02:14,937 - ERROR - [MAIN] Failed to load cog credits: Extension 'cogs.credits' raised an error: ValueError: invalid literal for int() with base 10: ''
+2025-03-31 11:02:14,938 - ERROR - [MAIN] Failed to load cog quests: Extension 'cogs.quests' raised an error: ValueError: invalid literal for int() with base 10: ''
+2025-03-31 11:02:14,939 - ERROR - [MAIN] Failed to load cog status: Extension 'cogs.status' raised an error: ValueError: invalid literal for int() with base 10: ''
+2025-03-31 11:02:14,940 - ERROR - [MAIN] Failed to load cog settings: Extension 'cogs.settings' raised an error: ValueError: invalid literal for int() with base 10: ''
+2025-03-31 11:02:18,135 - INFO - [MAIN] Quack! Bot is online.

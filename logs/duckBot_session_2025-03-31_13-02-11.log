@@ -1,0 +1,18 @@
+2025-03-31 13:02:16,718 - INFO - [MAIN] Quack! Bot is online.
+2025-03-31 13:02:31,598 - ERROR - [DUCKAI] HTTPException: 400 Bad Request (error code: 10014): Unknown Emoji
+2025-03-31 13:02:58,475 - ERROR - [DUCKAI] HTTPException: 403 Forbidden (error code: 50013): Missing Permissions
+2025-03-31 13:03:00,594 - ERROR - [DUCKAI] HTTPException: 400 Bad Request (error code: 10014): Unknown Emoji
+2025-03-31 13:03:33,978 - ERROR - [DUCKAI] HTTPException: 403 Forbidden (error code: 50013): Missing Permissions
+2025-03-31 13:04:39,210 - WARNING - [CMD] alexkkork4200 made the bot say "fuck"
+2025-03-31 13:07:24,270 - WARNING - [CMD] motocite.dev annoying alexkkork4200 23 times.
+2025-03-31 13:07:47,772 - WARNING - [CMD] alexkkork4200 annoying motocite.dev 1000 times.
+2025-03-31 13:08:31,704 - WARNING - [CMD] alexkkork4200 annoying motocite.dev 10 times.
+2025-03-31 13:12:03,675 - ERROR - [DUCKAI] HTTPException: 400 Bad Request (error code: 10014): Unknown Emoji
+2025-03-31 13:12:55,266 - WARNING - [CMD] alexkkork4200 annoying .civx 100 times.
+2025-03-31 13:13:47,788 - INFO - [CREDITS] alexkkork4200 deducted 1000 social credits to .civx
+2025-03-31 13:13:56,248 - ERROR - [DUCKAI] HTTPException: 400 Bad Request (error code: 10014): Unknown Emoji
+2025-03-31 13:14:37,963 - INFO - [CREDITS] alexkkork4200 deducted 99999999 social credits to .civx
+2025-03-31 13:15:29,122 - WARNING - [DUCKAI] motocite.dev used a blacklisted word.
+2025-03-31 13:15:29,230 - INFO - [MAIN] Left invalid server. id: 1323753043015110716
+2025-03-31 13:15:44,299 - WARNING - [DUCKAI] motocite.dev used a blacklisted word.
+2025-03-31 13:19:01,041 - WARNING - [DM] alexkkork4200 made the bot dm "die" to alexkkork4200

@@ -1,0 +1,5 @@
+2025-03-31 11:50:03,849 - INFO - [MAIN] Quack! Bot is online.
+2025-03-31 11:50:13,159 - ERROR - [DUCKAI] HTTPException: 400 Bad Request (error code: 10014): Unknown Emoji
+2025-03-31 11:50:29,741 - ERROR - [DUCKAI] HTTPException: 400 Bad Request (error code: 10014): Unknown Emoji
+2025-03-31 11:50:38,953 - ERROR - [DUCKAI] HTTPException: 400 Bad Request (error code: 10014): Unknown Emoji
+2025-03-31 11:53:05,426 - ERROR - [DUCKAI] HTTPException: 400 Bad Request (error code: 10014): Unknown Emoji

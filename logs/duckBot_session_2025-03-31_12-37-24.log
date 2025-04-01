@@ -1,0 +1,16 @@
+2025-03-31 12:37:28,114 - INFO - [MAIN] Quack! Bot is online.
+2025-03-31 12:37:28,665 - INFO - [MAIN] Left invalid server. id: 1284300341554188418
+2025-03-31 12:37:45,788 - ERROR - [DUCKAI] HTTPException: 400 Bad Request (error code: 10014): Unknown Emoji
+2025-03-31 12:38:01,409 - ERROR - [DUCKAI] HTTPException: 400 Bad Request (error code: 10014): Unknown Emoji
+2025-03-31 12:38:30,828 - ERROR - [DUCKAI] HTTPException: 400 Bad Request (error code: 10014): Unknown Emoji
+2025-03-31 12:38:55,175 - WARNING - [DM] alexkkork4200 made the bot dm "hi" to motocite.dev
+2025-03-31 12:39:04,639 - WARNING - [DM] alexkkork4200 made the bot dm "sup" to alexkkork4200
+2025-03-31 12:41:00,709 - INFO - motocite.dev brainwashed the AI
+2025-03-31 12:41:19,966 - INFO - [CREDITS] motocite.dev added 69 social credits to alexkkork4200
+2025-03-31 12:41:38,440 - WARNING - [DM] motocite.dev made the bot dm "Yo Dude if this works ping me" to alexkkork4200
+2025-03-31 12:41:46,158 - WARNING - [DM] motocite.dev made the bot dm "YO" to motocite.dev
+2025-03-31 12:44:52,302 - INFO - [CMD] Duck image sent
+2025-03-31 12:45:17,112 - WARNING - [CMD] motocite.dev made the bot say "<@1131426483404026019> Is Skibidi Sigma <@1266344112710226031> you know?"
+2025-03-31 12:45:39,553 - WARNING - [CMD] alexkkork4200 made the bot say "hi"
+2025-03-31 12:46:36,140 - INFO - [STATUS] Status changed to True via the command
+2025-03-31 12:51:37,370 - ERROR - [DUCKAI] HTTPException: 400 Bad Request (error code: 10014): Unknown Emoji
